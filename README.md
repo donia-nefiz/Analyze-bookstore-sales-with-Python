@@ -1,1 +1,1 @@
-# Analyze-bookstore-sales-with-Python
+# Analyze bookstore sales with Python
